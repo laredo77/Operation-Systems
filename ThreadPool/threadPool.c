@@ -1,4 +1,4 @@
-// Itamar Laredo 311547087
+// Itamar Laredo
 #include <stdio.h>
 #include <pthread.h>
 #include <stdlib.h>
