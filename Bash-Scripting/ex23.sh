@@ -1,5 +1,5 @@
 #!/bin/bash
-# Itamar Laredo 311547087
+# Itamar Laredo
 
 # Arguments varibale defualt initialize by false value.
 NAME=0
