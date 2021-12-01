@@ -1,5 +1,5 @@
 #!/bin/bash
-# Itamar Laredo 311547087
+# Itamar Laredo
 
 # In case script recive less or more then 3 arguments --> print erorr and exit.
 if [ "$#" -lt 3 ];
